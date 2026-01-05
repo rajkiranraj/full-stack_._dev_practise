@@ -14,7 +14,7 @@ function UserefForm() {
         <input type="text" placeholder="Enter the name" ref={name}></input>
         <input type="number" placeholder="Enter the Age " ref={age} />
         <input type="email" placeholder="Enter the email" ref={email}></input>
-        <button>Submit the form</button>
+        <button>Submit </button>
       </form>
     </div>
   );
