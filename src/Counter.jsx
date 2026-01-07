@@ -3,6 +3,7 @@ import { useState } from 'react'
 function Counter() {
   const [state, setState] = useState(0);
   const [color, setColor] = useState("white");
+  //Added states
   return (
     <>
       <div className="flex w-screen h-screen justify-center items-center flex-col bg-black">
