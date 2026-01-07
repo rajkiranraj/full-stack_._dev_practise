@@ -20,7 +20,7 @@ function Counter() {
         <br />
         <div className="flex gap-4">
           <button
-            className="text-white rounded-lg p-2 px-8 bg-blue-500 hover:scale-110 transition-all ease-in-out"
+            className="text-white rounded-lg p-2 px-8 bg-orange-600 hover:scale-110 transition-all ease-in-out"
             onClick={() => {
               setState((prev) => prev + 1);
               setColor("yellow");
