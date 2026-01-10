@@ -8,7 +8,7 @@ function About() {
       <Link to="/Userdetails/user_test" className="font-bold">User_test</Link>
       <Link to="/Userdetails/chatgpt" className="font-bold">Chatgpt</Link>
     </div>
-    (
+  
   );
 }
 
